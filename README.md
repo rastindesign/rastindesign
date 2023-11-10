@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rastin.m.s.1382@gmail.com**
 
-- 📄 Know about my experiences [jobvision.ir/cv/97041959-220216](jobvision.ir/cv/97041959-220216)
+- 📄 Know about my experiences [jobvision.ir resume](https//jobvision.ir/cv/97041959-220216)
 
 - ⚡ Fun fact **I'm very good at English and lately I'm learning Spanish**
 
