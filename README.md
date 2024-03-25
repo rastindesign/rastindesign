@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **...**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at this account
 
 - 📝 I regularly write articles on [...](...)
 
