@@ -3,23 +3,21 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Js and React**
+- 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking forward to collaborate on **Responsive and Interactive Websites**
 
-- 🤝 I’m looking for help with **...**
+- 🤝 I’m looking for help with **my skills regard writing professional essays**
 
 - 👨‍💻 All of my projects are available at this account
 
-- 📝 I regularly write articles on [...](...)
-
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **Resct js, Typescript**
 
 - 📫 How to reach me **rastin.m.s.1382@gmail.com**
 
 - 📄 Know about my experiences (https://jobvision.ir/cv/97041959-220216)
 
-- ⚡ Fun fact **I'm very good at English and lately I'm learning Spanish**
+- ⚡ Fun fact **I'm very good at English and lately I'm learning Spanish & Turkish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
